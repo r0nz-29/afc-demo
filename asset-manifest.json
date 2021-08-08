@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/afc-demo/static/css/main.9a28cd26.chunk.css",
-    "main.js": "/afc-demo/static/js/main.2d46a8e2.chunk.js",
-    "main.js.map": "/afc-demo/static/js/main.2d46a8e2.chunk.js.map",
+    "main.js": "/afc-demo/static/js/main.72b02616.chunk.js",
+    "main.js.map": "/afc-demo/static/js/main.72b02616.chunk.js.map",
     "runtime-main.js": "/afc-demo/static/js/runtime-main.fcef40a1.js",
     "runtime-main.js.map": "/afc-demo/static/js/runtime-main.fcef40a1.js.map",
     "static/js/2.1ea04bf8.chunk.js": "/afc-demo/static/js/2.1ea04bf8.chunk.js",
@@ -10,13 +10,12 @@
     "index.html": "/afc-demo/index.html",
     "static/css/main.9a28cd26.chunk.css.map": "/afc-demo/static/css/main.9a28cd26.chunk.css.map",
     "static/js/2.1ea04bf8.chunk.js.LICENSE.txt": "/afc-demo/static/js/2.1ea04bf8.chunk.js.LICENSE.txt",
-    "static/media/phone2.dda7ca8d.svg": "/afc-demo/static/media/phone2.dda7ca8d.svg",
-    "static/media/whiteLogo.ee7b987d.png": "/afc-demo/static/media/whiteLogo.ee7b987d.png"
+    "static/media/phone2.dda7ca8d.svg": "/afc-demo/static/media/phone2.dda7ca8d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fcef40a1.js",
     "static/js/2.1ea04bf8.chunk.js",
     "static/css/main.9a28cd26.chunk.css",
-    "static/js/main.2d46a8e2.chunk.js"
+    "static/js/main.72b02616.chunk.js"
   ]
 }
